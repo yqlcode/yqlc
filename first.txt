@@ -1,3 +1,4 @@
 第一次使用git版本控制系统
 加一行
 在develop分支上加的一行
+git is easy
